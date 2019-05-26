@@ -1,0 +1,18 @@
+Question 1: How many users have made exactly 2 ratings?
+
+Result 1: 9855 users have rated books exactly 2 times (explicit ratings)
+
+
+Question 2: Find the mean, median, mode, and range for number of ratings made for book.
+
+Result 2: mean = 2.56 
+min = 1
+max = 707 
+range = 706
+median = 1.00
+mode = 1.00
+
+
+Question 3: If you look for users and ratings, does Pareto principle hold?
+
+Result: The top 20% users account for 35.8% of ratings; Pareto doesn't hold
